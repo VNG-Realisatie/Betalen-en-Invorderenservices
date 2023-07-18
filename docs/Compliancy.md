@@ -21,11 +21,11 @@ title: Compliancy Betalen- en Invorderenservices
 ## Inleiding
 De standaard [Betalen- en Invorderenservices 1.0](http://www.gemmaonline.nl/images/cocreatiebasisgemeente/9/9d/Koppelvlakspecificatie_Keten_Betalen_en_Invorderen_v1.00.pdf) is op 2 april 2014 formeel vastgesteld door de StUF Regiegroep. Daarmee heeft de standaard de status ‘In gebruik’ en wordt gemeenten aanbevolen om deze standaard te gebruiken.
 
-Voor een juiste toepassing van de standaard Betalen- en Invorderenservices worden door KING compliancy instrumenten ontwikkeld met als doel interoperabiliteitsproblemen tussen applicaties bij gemeenten preventief te verminderen. In de paragraaf 2.1 ”Wanneer is een softwareproduct compliant” is aangegeven wanneer een softwareproduct compliant is aan de Betalen- en Invorderenservices 1.0.
+Voor een juiste toepassing van de standaard Betalen- en Invorderenservices worden door VNG Realisatie compliancy instrumenten ontwikkeld met als doel interoperabiliteitsproblemen tussen applicaties bij gemeenten preventief te verminderen. In de paragraaf 2.1 ”Wanneer is een softwareproduct compliant” is aangegeven wanneer een softwareproduct compliant is aan de Betalen- en Invorderenservices 1.0.
 
 VNG Realisatie adviseert gemeenten bij aanschaf van software die moet voldoen aan deze standaard gebruik te maken van de [Handreiking leverings- en acceptatievoorwaarden ICT](./documenten/130131_Leverings_en_acceptatievoorwaarden_versie_2_Definitief.pdf). Daarin zijn voorwaarden opgenomen over het gebruik van compliancy instrumenten.
 
-Op 7 mei 2014 heeft KING de technische professionals van leveranciers tekst en uitleg gegeven over het deze testset en het gebruik van het StUF Testplatform. Onderliggend document maakt deel uit van de compliancy instrumenten van VNG Realisatie.
+Op 7 mei 2014 heeft VNG Realisatie de technische professionals van leveranciers tekst en uitleg gegeven over het deze testset en het gebruik van het StUF Testplatform. Onderliggend document maakt deel uit van de compliancy instrumenten van VNG Realisatie.
 
 ## Doel van document
 Doel van dit document is het definiëren van een standaard testset voor het testen van koppelingen die gebaseerd zijn op de Betalen- en Invorderenservices 1.0. Deze testset beschrijft de tests die minimaal voorafgaand aan het in productie nemen van (aangepaste of nieuwe) software door de betreffende softwareleverancier uitgevoerd moeten worden.

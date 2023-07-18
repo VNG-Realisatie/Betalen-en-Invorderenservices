@@ -116,7 +116,7 @@ De maximale variant van een bericht bevat alle door de standaard verplichte en o
 De minimale variant van een bericht bevat alleen de verplichte elementen, voorzien van een volgens het RSGB/RSGZ geldige waarde waarbij gerelateerde (verplichte) elementen maximaal 1 keer voorkomen.
 
 ## Beschrijving testset scenario’s
-De testscenario’s behorende bij deze testset zijn beschreven in een spreadsheet.
+De testscenario’s behorende bij deze testset zijn beschreven in een [spreadsheet](documenten/Testset_betalen_en_Invorderen_1.0.zip).
 
 Per referentiecomponent/rol is een tabblad opgenomen waar u de testscenario’s vindt die relevant zijn voor softwareproducten die deze referentiecomponent/rol invullen. Een testscenario beschrijving bestaat uit een sequence diagram (in UML) en een tabel waarin wordt toegelicht welke acties uitgevoerd moeten worden en wat daarbij het resultaat moet zijn.
 

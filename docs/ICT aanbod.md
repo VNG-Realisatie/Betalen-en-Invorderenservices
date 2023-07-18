@@ -26,6 +26,7 @@ Staat uw huidige softwareproduct niet in het overzicht? Neem in dit geval contac
 KING heeft de Handreiking leverings- en acceptatievoorwaarden ICT opgesteld. Dit document biedt u een set van artikelen die u geheel of gedeeltelijk kunt inweven in eigen inkoop- en acceptatievoorwaarden ICT. Hiermee borgt u dat in de uitvraag expliciet wordt gevraagd om het leveren van de standaard en het voldoen aan de compliancy.
 
 ## Status van het standaardisatietraject
+
 | Keten-analyse | Inrichten project-groep | Opstellen standaard | Vaststellen standaard | Proef implementatie | Compliancy inrichten |
 | --- | --- | --- | --- | --- | --- |
 | Gereed | Gereed | Gereed | Gereed | Gepland Q2 - Q4 2014 | Gereed |

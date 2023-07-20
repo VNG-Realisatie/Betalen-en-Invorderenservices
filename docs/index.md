@@ -4,6 +4,10 @@ title: Betalen- en Invorderenservices
 ---
 # Betalen- en Invorderenservices
 
+**Actuele versie:** 1.0  
+**Beheerder**  VNG Realisatie<br/>
+**Afkorting**  StUF-FIN
+
 Standaard services voor het uitwisselen van gegevens tussen inningensysteem en taakspecifieke applicaties, gebaseerd op StUF.
 
 | Versie | Status | Toelichting |

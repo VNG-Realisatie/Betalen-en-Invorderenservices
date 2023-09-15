@@ -14,4 +14,4 @@ De specificatie stelt eisen aan drie referentiecomponenten. Dit zijn:
 ## Procesinteracties en systeemcomponenten
 Onderstaand overzicht beschrijft het applicatielandschap met de te standaardiseren proces- en systeeminteracties. De processtappen zijn verder uitgewerkt in het [Koppelvlakspecificatiedocument](documenten/Koppelvlakspecificatie_Keten_Betalen_en_Invorderen_v1.00.pdf) dat in april 2014 is opgeleverd.
 
-<img src="./images/Afbeelding_Traject_Betalen_en_Invorderen_Operatie_NUP.png" width="600"/>
+<img src="./images/Afbeelding_Traject_Betalen_en_Invorderen_Operatie_NUP.png" width="800"/>

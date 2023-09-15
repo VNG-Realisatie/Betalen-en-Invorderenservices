@@ -53,7 +53,7 @@ folder_files:
 <table>
 	<thead>
 		<tr>
-			<th>Document</th><th>Versie</th><th>Beheerstatus</th><th>Beschrijving</th>
+			<th>Document</th><th>Versie</th><th>Beheerstatus</th><th>Beschrijving</th><th>Versiedatum</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -68,6 +68,7 @@ folder_files:
 					<td>{{ i.versie }}</td>
 					<td>{{ i.status }}</td>
 					<td>{{ i.omschrijving }}</td>
+					<td>{{ i.datum }}</td>
 				</tr>
 			{% endif %} 
 		{% endfor %}

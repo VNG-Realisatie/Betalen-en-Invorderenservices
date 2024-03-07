@@ -23,7 +23,7 @@ De standaard [Betalen- en Invorderenservices 1.0](http://www.gemmaonline.nl/imag
 
 Voor een juiste toepassing van de standaard Betalen- en Invorderenservices worden door VNG Realisatie compliancy instrumenten ontwikkeld met als doel interoperabiliteitsproblemen tussen applicaties bij gemeenten preventief te verminderen. In de paragraaf 2.1 ”Wanneer is een softwareproduct compliant” is aangegeven wanneer een softwareproduct compliant is aan de Betalen- en Invorderenservices 1.0.
 
-VNG Realisatie adviseert gemeenten bij aanschaf van software die moet voldoen aan deze standaard gebruik te maken van de [Handreiking leverings- en acceptatievoorwaarden ICT](./documenten/130131_Leverings_en_acceptatievoorwaarden_versie_2_Definitief.pdf). Daarin zijn voorwaarden opgenomen over het gebruik van compliancy instrumenten.
+VNG Realisatie adviseert gemeenten bij aanschaf van software die moet voldoen aan deze standaard gebruik te maken van de [Handreiking leverings- en acceptatievoorwaarden ICT](https://vng.nl/projecten/gibit). Daarin zijn voorwaarden opgenomen over het gebruik van compliancy instrumenten.
 
 Op 7 mei 2014 heeft VNG Realisatie de technische professionals van leveranciers tekst en uitleg gegeven over het deze testset en het gebruik van het StUF Testplatform. Onderliggend document maakt deel uit van de compliancy instrumenten van VNG Realisatie.
 
